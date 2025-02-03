@@ -1,0 +1,9 @@
+.Board {
+  margin: 50px auto;
+  border: 5px solid black;
+}
+.Game {
+  margin: 50px auto;
+  padding: 20px;
+  background-color: whitesmoke;
+}
